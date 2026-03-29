@@ -4,6 +4,7 @@ scrape_kworb.py
 2. Uses a BROADER built-in Indian artist seed list (covers Punjabi, Tamil, Telugu, Hindi etc.)
    combined with whatever MusicBrainz returned
 3. Fuzzy-matches and ranks by Today score — keeps top 100
+4. FIXED: Higher threshold + filters to eliminate false positives like "Children", "Sifar"
 """
 
 import json
@@ -19,11 +20,17 @@ HEADERS = {
                   "Chrome/120.0.0.0 Safari/537.36"
 }
 
-MATCH_THRESHOLD = 75   # lowered from 82 so more names match
+MATCH_THRESHOLD = 85   # RAISED from 75 - only strong matches
 TOP_N = 100
 
+# Blocklist for obvious false positives (generic words, non-artists)
+FALSE_POSITIVES = {
+    'children', 'sifar', 'divana', 'divane', 'deewana', 'zero', 
+    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine',
+    'love', 'heart', 'star', 'sun', 'moon', 'night', 'day'
+}
+
 # Broad seed list of well-known Indian artists across all genres/languages
-# This catches artists MusicBrainz misses (Punjabi pop, new-gen artists etc.)
 SEED_ARTISTS = [
     "Arijit Singh", "A. R. Rahman", "AR Rahman", "Shreya Ghoshal", "Sonu Nigam",
     "KK", "Udit Narayan", "Lata Mangeshkar", "Asha Bhosle", "Kumar Sanu",
@@ -102,18 +109,32 @@ def match_artists(indian_artists, kworb_list):
     matched = []
 
     for indian_name in all_indian:
+        # NEW: Skip single-word names (too generic)
+        if len(indian_name.split()) <= 1:
+            continue
+        
         result = process.extractOne(
             indian_name, kworb_names, scorer=fuzz.token_sort_ratio
         )
         if result and result[1] >= MATCH_THRESHOLD:
             kworb_name = result[0]
+            
+            # NEW: Skip obvious false positives
+            kworb_lower = kworb_name.lower()
+            if any(fp in kworb_lower for fp in FALSE_POSITIVES):
+                print(f"  Blocked false positive: '{kworb_name}' <- '{indian_name}' (score: {result[1]})")
+                continue
+                
             if kworb_name in seen_kworb:
                 continue   # don't add same kworb artist twice
             seen_kworb.add(kworb_name)
+            
+            print(f"  MATCH: '{indian_name}' -> '{kworb_name}' (score: {result[1]})")
             matched.append({
                 "indian_name": indian_name,
                 "kworb_name":  kworb_name,
                 "today":       kworb_lookup[kworb_name],
+                "match_score": result[1]
             })
 
     matched.sort(key=lambda x: x["today"], reverse=True)
