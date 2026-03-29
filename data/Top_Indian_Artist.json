@@ -5,11 +5,6 @@
     "C": "Image_Url"
   },
   {
-    "A": "AYN",
-    "B": "5243",
-    "C": "https://i.scdn.co/image/ab67616100005174830845d2fa6c5c7874176951"
-  },
-  {
     "A": "Sharda",
     "B": "4769",
     "C": "https://i.scdn.co/image/ab67616d00001e02209dd9281b8b95340d9e469e"
@@ -20,24 +15,14 @@
     "C": "https://i.scdn.co/image/ab676161000051740d0690ba8e1516afad52f24f"
   },
   {
-    "A": "Sonia",
+    "A": "Sifar",
     "B": "3619",
-    "C": "https://i.scdn.co/image/ab67616100005174c99a3f49823c7488051d1987"
+    "C": "https://i.scdn.co/image/ab676161000051748a4c60d0eebe893f72e42979"
   },
   {
     "A": "Children",
     "B": "2933",
     "C": "https://i.scdn.co/image/ab67616100005174e51866b7c973c8aafaf1fece"
-  },
-  {
-    "A": "The Beatz",
-    "B": "2215",
-    "C": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433"
-  },
-  {
-    "A": "Chris Perry",
-    "B": "1694",
-    "C": "https://i.scdn.co/image/ab67616100005174e8c99e0fe1d249ca99284296"
   },
   {
     "A": "Divana",
@@ -50,19 +35,9 @@
     "C": "https://i.scdn.co/image/ab676161000051742af434c316269d52e31b59c3"
   },
   {
-    "A": "Kaox",
-    "B": "602",
-    "C": "https://i.scdn.co/image/ab676161000051743a0212bbb5d6093f1ae21fc5"
-  },
-  {
-    "A": "Arishtat",
-    "B": "586",
-    "C": "https://i.scdn.co/image/ab676161000051744518cf16a45e35fc0cc82862"
-  },
-  {
-    "A": "Kaya",
-    "B": "521",
-    "C": "https://i.scdn.co/image/ab67616100005174484e326315e09b3f382a7960"
+    "A": "Bhushan Mate",
+    "B": "798",
+    "C": "https://i.scdn.co/image/ab67616100005174f100bd880bbd8871fed35f0f"
   },
   {
     "A": "Shellee",
@@ -80,24 +55,19 @@
     "C": "https://i.scdn.co/image/ab67616100005174f62204a14d5343f03a91823e"
   },
   {
-    "A": "Karl Peters",
-    "B": "340",
-    "C": "https://i.scdn.co/image/ab67616d00001e0221bdeff2295b511a5c263667"
-  },
-  {
     "A": "Sidhu Moose Wala",
     "B": "313",
     "C": "https://i.scdn.co/image/ab676161000051749973157bdaedef3f77ef8e13"
   },
   {
-    "A": "Tarang",
+    "A": "Tara",
     "B": "297",
-    "C": "https://i.scdn.co/image/ab67616100005174b766e0f77c26bcc6abf7e38a"
+    "C": "https://i.scdn.co/image/5f89b234f91ce58ba10884fc2ef28e485cc36bec"
   },
   {
-    "A": "Daash",
+    "A": "Tasha",
     "B": "296",
-    "C": "https://i.scdn.co/image/ab676161000051748fa8755cfb98f997cd7c4215"
+    "C": "https://i.scdn.co/image/ab676161000051748ea4c043d7ee141c4a8ee8c9"
   },
   {
     "A": "Arko",
@@ -110,6 +80,11 @@
     "C": "https://i.scdn.co/image/ab676161000051748f91e70ba403914699cfad6e"
   },
   {
+    "A": "Joy",
+    "B": "174",
+    "C": "https://i.scdn.co/image/ab67616100005174f94c47d61b62caf79c57b091"
+  },
+  {
     "A": "Amma",
     "B": "154",
     "C": "https://i.scdn.co/image/ab67616100005174564bf853bef777af95eaab23"
@@ -120,9 +95,9 @@
     "C": "https://i.scdn.co/image/ab676161000051748ac342ca88dd477e871c4172"
   },
   {
-    "A": "Reema",
+    "A": "Rama",
     "B": "140",
-    "C": "https://i.scdn.co/image/ab67616100005174cd9d661b6955241f33ef8a0a"
+    "C": "https://i.scdn.co/image/ab6761610000517428b456b05c5c79c55087fea5"
   },
   {
     "A": "Cheryl",
@@ -140,29 +115,19 @@
     "C": "https://i.scdn.co/image/ab676161000051740f0be2054fe9594026a6b843"
   },
   {
-    "A": "Sarah Black",
-    "B": "101",
-    "C": "https://i.scdn.co/image/ab6761610000517415f8e8cb4d730bbe2b10eb6f"
-  },
-  {
     "A": "Fenix John",
     "B": "92",
     "C": "https://i.scdn.co/image/ab67616100005174d345230b51791b4643bcc343"
   },
   {
-    "A": "Anand Tiwari",
+    "A": "Ankit Tiwari",
     "B": "70",
-    "C": "https://i.scdn.co/image/ab67616d00001e028e857c92b6cc160a8d4a14f2"
+    "C": "https://i.scdn.co/image/ab67616100005174508b6c4016930382af5ea17f"
   },
   {
     "A": "Shor Police",
     "B": "66",
     "C": "https://i.scdn.co/image/ab676161000051743021b129f0af67927941b2a4"
-  },
-  {
-    "A": "Zero",
-    "B": "62",
-    "C": "https://i.scdn.co/image/ab676161000051749bc8415789f0649eded6bfe8"
   },
   {
     "A": "Yo Yo Honey Singh",
@@ -175,29 +140,14 @@
     "C": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865"
   },
   {
-    "A": "Ko Sesha",
-    "B": "51",
-    "C": "https://i.scdn.co/image/ab67616d00001e02b61a7d4c017c37ca46e19f8d"
-  },
-  {
     "A": "Jordan DS",
     "B": "50",
     "C": "https://i.scdn.co/image/ab676161000051742a02b713cac51be638001b05"
   },
   {
-    "A": "Flipknot",
-    "B": "50",
-    "C": "https://i.scdn.co/image/ab67616100005174d0cdb283a7384a0edb665182"
-  },
-  {
-    "A": "Kabilan",
-    "B": "50",
-    "C": "https://i.scdn.co/image/ab67616d00001e0288e8556a37352792279e50fa"
-  },
-  {
-    "A": "SanGan",
+    "A": "Santhanam",
     "B": "37",
-    "C": "https://i.scdn.co/image/ab6761610000517409882b1b7b33732abd60fc38"
+    "C": "https://i.scdn.co/image/ab6742d3000052b7defb7fcf29f808ff03973b88"
   },
   {
     "A": "Ajay Sen",
@@ -215,9 +165,9 @@
     "C": "https://i.scdn.co/image/ab67616d00001e027be6794238d3c58e112f69eb"
   },
   {
-    "A": "Simma",
+    "A": "Simha",
     "B": "21",
-    "C": "https://i.scdn.co/image/ab676161000051749f7bde287e07805e65cdb795"
+    "C": "https://i.scdn.co/image/ab676161000051744e746026d453189998cde182"
   },
   {
     "A": "Caralisa Monteiro",
@@ -225,114 +175,14 @@
     "C": "https://i.scdn.co/image/ab67616100005174f43a8d87d4810aa05739b2ef"
   },
   {
-    "A": "Joju Sebastian",
+    "A": "Mano",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab6742d3000052b7f5ff0eb333b06d55b4b6bfae"
+    "C": "https://i.scdn.co/image/ab67616100005174a4780fe15900fbd223cd4f48"
   },
   {
-    "A": "Bob",
-    "B": "0",
-    "C": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098"
-  },
-  {
-    "A": "Honey",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174ecc3cb4bc9da2e175334b80d"
-  },
-  {
-    "A": "Radha Thomas",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051742cd62c47f6d2cb919e464664"
-  },
-  {
-    "A": "King",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051745c0b2129a88c7d6ed0704556"
-  },
-  {
-    "A": "Mani",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab6761610000517402a24f0d8f01ccb36dcb54f7"
-  },
-  {
-    "A": "Mehmood",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174c0b69ffe2e8a237bce7a31c7"
-  },
-  {
-    "A": "John Mayer",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174e926dd683e1700a6d65bd835"
-  },
-  {
-    "A": "Hari",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051749b475c5d017d49ab5a361145"
-  },
-  {
-    "A": "Amli",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051741414bd1fc645645a56245da1"
-  },
-  {
-    "A": "Nick Joong",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174929e1398b38096d7e3f16555"
-  },
-  {
-    "A": "Jayden",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051743bbd5f6417e97e870dbbdbaf"
-  },
-  {
-    "A": "Arijit Singh",
+    "A": "Ajit",
     "B": "0",
     "C": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7"
-  },
-  {
-    "A": "Ankitha",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051745a237082a133c486999b96f4"
-  },
-  {
-    "A": "Achint",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab6761610000517470736ebcc69443325da6931e"
-  },
-  {
-    "A": "Devic",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ebcbea931791ea2b4525698f63b309709bdc0cf4"
-  },
-  {
-    "A": "Diljit Dosanjh",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174fc043bea91ac91c222d235c9"
-  },
-  {
-    "A": "Shubh",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051749dfbd284ba8a7d4876a181e3"
-  },
-  {
-    "A": "Bhoomi Trivedi",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051748c390a4068d34cf67359a4f4"
-  },
-  {
-    "A": "Alexander Babu",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e02f3f374c9fdc8864c751d6125"
-  },
-  {
-    "A": "Sad Wolves",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174620e9911e10064bcbf2d7481"
-  },
-  {
-    "A": "Fay Jones",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616100005174f1dc89da8d885a12e0d8f145"
   },
   {
     "A": "Apache",
@@ -340,29 +190,24 @@
     "C": "https://i.scdn.co/image/ab676161000051746250ae3e151e1993112ab4e3"
   },
   {
-    "A": "John Stewart",
+    "A": "Jayden",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e02c33c23574fba0d4f630ca8c5"
+    "C": "https://i.scdn.co/image/ab676161000051743bbd5f6417e97e870dbbdbaf"
   },
   {
-    "A": "Naushad",
+    "A": "Deva",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e02930f4e53fd055ae63b616e91"
+    "C": "https://i.scdn.co/image/ab676161000051742d7e4deecef16d1f334ff2b7"
   },
   {
-    "A": "Kausalya",
+    "A": "The Boss",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e02dc611cd2dc5d19934c948e9a"
+    "C": "https://i.scdn.co/image/ab6761610000517481df2fa2f937029ec986bbb8"
   },
   {
-    "A": "Violin Brothers",
+    "A": "Alexander Babu",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e0257ee155ce5c058a3ab853e46"
-  },
-  {
-    "A": "Santosh Bote",
-    "B": "0",
-    "C": "https://i.scdn.co/image/ab67616d00001e02d66348ab8420f63e45ca82c4"
+    "C": "https://i.scdn.co/image/ab67616d00001e02f3f374c9fdc8864c751d6125"
   },
   {
     "A": "John Abraham",
@@ -370,13 +215,133 @@
     "C": "https://i.scdn.co/image/ab67616d00001e02b6e68a20a2bedfa7565010f6"
   },
   {
-    "A": "Baazi",
+    "A": "Kamal",
     "B": "0",
-    "C": "https://i.scdn.co/image/ab676161000051746967a2af978373dac3b01b2b"
+    "C": "https://i.scdn.co/image/ab67616100005174d5318bd0b17853fa65346af2"
+  },
+  {
+    "A": "Bob",
+    "B": "0",
+    "C": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098"
+  },
+  {
+    "A": "Radha Thomas",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051742cd62c47f6d2cb919e464664"
+  },
+  {
+    "A": "Shubham",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174aea7fbf4a43924a9204d54dc"
+  },
+  {
+    "A": "Honey",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174ecc3cb4bc9da2e175334b80d"
+  },
+  {
+    "A": "Diljit Dosanjh",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174fc043bea91ac91c222d235c9"
+  },
+  {
+    "A": "Mehmood",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174c0b69ffe2e8a237bce7a31c7"
+  },
+  {
+    "A": "Ankitha",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051745a237082a133c486999b96f4"
+  },
+  {
+    "A": "Amli",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051741414bd1fc645645a56245da1"
+  },
+  {
+    "A": "Big Deal",
+    "B": "0",
+    "C": "https://i.scdn.co/image/168d959669f3d78fa178f69e79f584472928dc1d"
+  },
+  {
+    "A": "Amit Trivedi",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174a37271f7a4862a6e99ce345f"
   },
   {
     "A": "Shaan",
     "B": "0",
     "C": "https://i.scdn.co/image/ab676161000051742573d940f1062a6646891e50"
+  },
+  {
+    "A": "Sad Wolves",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174620e9911e10064bcbf2d7481"
+  },
+  {
+    "A": "Bobby Deol",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051742da61b9aea6988e9b92f3fae"
+  },
+  {
+    "A": "Joju Sebastian",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab6742d3000052b7f5ff0eb333b06d55b4b6bfae"
+  },
+  {
+    "A": "Hari",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051749b475c5d017d49ab5a361145"
+  },
+  {
+    "A": "King",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051745c0b2129a88c7d6ed0704556"
+  },
+  {
+    "A": "Naushad",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616d00001e02930f4e53fd055ae63b616e91"
+  },
+  {
+    "A": "Sam",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051743cee164a9017847b35ebcf32"
+  },
+  {
+    "A": "Arijit Singh",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7"
+  },
+  {
+    "A": "David Simon",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616d00001e024d1d1d95fc4e7d3355913f3d"
+  },
+  {
+    "A": "Nick Joong",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174929e1398b38096d7e3f16555"
+  },
+  {
+    "A": "Achint",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab6761610000517470736ebcc69443325da6931e"
+  },
+  {
+    "A": "John Mayer",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174e926dd683e1700a6d65bd835"
+  },
+  {
+    "A": "AKASA",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174754db132d50e8e2e9a583d71"
+  },
+  {
+    "A": "Juice Dre",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab6761610000517423a60030944f7853c21565ef"
   }
 ]
