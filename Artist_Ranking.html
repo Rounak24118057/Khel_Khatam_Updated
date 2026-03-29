@@ -136,10 +136,21 @@
        onerror="this.style.display='none'" />
   <div class="header">Top Indian Artists</div>
 
-  <div class="button-container">
+<div class="button-container">
     <button class="top-song-btn" onclick="window.location.href='index.html'">
       Back to Top Songs
     </button>
+  </div>
+
+  <div style="text-align:center; margin: 16px 0 6px 0;">
+    <input type="text" id="searchBar"
+      placeholder="🔍 Search an artist..."
+      oninput="searchArtist()"
+      style="padding: 12px 22px; border-radius: 18px; border: 2px solid #69e091;
+             font-size: 1rem; width: 340px; max-width: 90%; outline: none;
+             font-family: 'Segoe UI', Arial, sans-serif; color: #1d4436;" />
+    <div id="searchResult" style="margin-top: 10px; font-size: 1.05rem;
+         font-weight: 600; color: #1d4436; min-height: 28px;"></div>
   </div>
 
   <div class="artists-grid" id="artistsGrid">
@@ -152,6 +163,10 @@
       .then(data => {
         // Skip the header object at index 0
         const artists = data.slice(1);
+        // Store for search
+        window.allArtists = artists.slice(0, 100).map((a, i) => ({
+          name: a["A"], rank: i + 1
+        }));
         const grid = document.getElementById("artistsGrid");
 
         if (!artists.length) {
@@ -175,6 +190,21 @@
         document.getElementById("artistsGrid").innerHTML =
           '<div class="status">Could not load artists. Please try again later.</div>';
       });
+    function searchArtist() {
+      const query = document.getElementById("searchBar").value.trim().toLowerCase();
+      const resultDiv = document.getElementById("searchResult");
+      if (!query) { resultDiv.textContent = ""; return; }
+
+      // allArtists is populated when data loads — see below
+      const match = window.allArtists.find(a => a.name.toLowerCase().includes(query));
+      if (match) {
+        resultDiv.style.color = "#1d4436";
+        resultDiv.textContent = `✅ ${match.name} is ranked #${match.rank} in Top 100`;
+      } else {
+        resultDiv.style.color = "#e05555";
+        resultDiv.textContent = `❌ Not in Top 100`;
+      }
+    }
   </script>
 </body>
 </html>
