@@ -1,1 +1,67 @@
-[{"A":"Artist_Name","B":"Today_Score","C":"Image_Url"}]
+[
+  {
+    "A": "Artist_Name",
+    "B": "Today_Score",
+    "C": "Image_Url"
+  },
+  {
+    "A": "AYN",
+    "B": "5243",
+    "C": "https://i.scdn.co/image/ab67616100005174830845d2fa6c5c7874176951"
+  },
+  {
+    "A": "Medusa",
+    "B": "870",
+    "C": "https://i.scdn.co/image/ab676161000051742af434c316269d52e31b59c3"
+  },
+  {
+    "A": "Sidhu Moose Wala",
+    "B": "313",
+    "C": "https://i.scdn.co/image/ab676161000051749973157bdaedef3f77ef8e13"
+  },
+  {
+    "A": "Harshavardhan Rameshwar",
+    "B": "181",
+    "C": "https://i.scdn.co/image/ab676161000051748f91e70ba403914699cfad6e"
+  },
+  {
+    "A": "Reema",
+    "B": "140",
+    "C": "https://i.scdn.co/image/ab67616100005174cd9d661b6955241f33ef8a0a"
+  },
+  {
+    "A": "Yo Yo Honey Singh",
+    "B": "60",
+    "C": "https://i.scdn.co/image/ab67616100005174bc7e4fffd515b47ff1ebbc1f"
+  },
+  {
+    "A": "Paraforce",
+    "B": "53",
+    "C": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865"
+  },
+  {
+    "A": "Santhanam",
+    "B": "37",
+    "C": "https://i.scdn.co/image/ab6742d3000052b7defb7fcf29f808ff03973b88"
+  },
+  {
+    "A": "Daryion",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174b224c7158433e133d6c06294"
+  },
+  {
+    "A": "Maran",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab6761610000517488989ce8f824f1aa19d059c4"
+  },
+  {
+    "A": "Shubha",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab676161000051747bec9d23d908b6a989284797"
+  },
+  {
+    "A": "Shubham",
+    "B": "0",
+    "C": "https://i.scdn.co/image/ab67616100005174aea7fbf4a43924a9204d54dc"
+  }
+]
