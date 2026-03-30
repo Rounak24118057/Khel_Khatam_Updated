@@ -37,4 +37,5 @@ Live rankings of trending songs and top Indian artists, auto-updated daily.
 3. That's it — Actions will run automatically every night
 
 ## 🔧 Manual Trigger
+User also has the choice to trigger manually anytime 
 Go to **Actions → Update Music Data → Run workflow**
